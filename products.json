@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Wooden Chair",
+    "price": 1499,
+    "image": "https://i.pinimg.com/1200x/38/05/30/380530e29359a21180c26e4cee291889.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Decorative Lamp",
+    "price": 999,
+    "image": "https://i.pinimg.com/736x/ef/fa/25/effa255ddce7ab21bce1c2a61ada578d.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wall Art",
+    "price": 799,
+    "image": "https://i.pinimg.com/736x/fd/d4/78/fdd47830baf5acc03a2b01fcc9cb9b47.jpg"
+  },
+  {
+    "id": 4,
+    "name": "earring",
+    "price": 109,
+    "image": "https://i.pinimg.com/736x/39/bc/55/39bc559d8871dcbeaac49ecb7c666a7b.jpg"
+  },
+  {
+    "id": 5,
+    "name": "cusion",
+    "price": 569,
+    "image": "https://i.pinimg.com/1200x/be/b1/2b/beb12bb718badd7e632c102d9a5ee078.jpg"
+  },
+  {
+    "id": 6,
+    "name": "bedsheet",
+    "price": 699,
+    "image": "https://i.pinimg.com/736x/fb/4c/69/fb4c69f306f8fcd6a9195d7baaae16bc.jpg"
+  }
+]
+
+
